@@ -6,6 +6,8 @@ public class JavaTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is java test");
+		System.out.println("Updated from Github");
+		
 	}
 
 }
